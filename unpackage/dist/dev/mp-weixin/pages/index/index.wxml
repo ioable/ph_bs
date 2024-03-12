@@ -1,0 +1,1 @@
+<view class="content"><view class="text-area"><text class="f-color">{{a}}</text></view></view>

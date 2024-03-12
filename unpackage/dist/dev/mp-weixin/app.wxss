@@ -1,0 +1,47 @@
+
+  /*每个页面公共css */
+  /* @import url(); */
+  /* 在线链接服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: 'iconfont';
+  /* Project id 4463614 */
+  src: url('https://at.alicdn.com/t/c/font_4463614_4rbxbpcp1yi.woff2?t=1710231562646') format('woff2'),
+    url('https://at.alicdn.com/t/c/font_4463614_4rbxbpcp1yi.woff?t=1710231562646') format('woff'),
+    url('https://at.alicdn.com/t/c/font_4463614_4rbxbpcp1yi.ttf?t=1710231562646') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-tianjia:before {
+  content: "\e64f";
+}
+.icon-shouye:before {
+  content: "\e62e";
+}
+.icon-icon-:before {
+  content: "\e614";
+}
+.icon-wode:before {
+  content: "\e607";
+}
+.icon-wode_huaban1:before {
+  content: "\e60e";
+}
+.icon-wode1:before {
+  content: "\e61b";
+}
+.icon-wode2:before {
+  content: "\e618";
+}
+.icon-shouye1:before {
+  content: "\e600";
+}
+  /* 全局css文件 */
+.f-color {
+  color: pink;
+}
+page{--status-bar-height:25px;--top-window-height:0px;--window-top:0px;--window-bottom:0px;--window-left:0px;--window-right:0px;--window-magin:0px}[data-c-h="true"]{display: none !important;}
