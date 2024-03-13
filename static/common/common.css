@@ -2,3 +2,9 @@
 .f-color {
   color: pink;
 }
+
+.kong-bai {
+  margin-top: 4rpx;
+  background-color: rgba(107, 107, 101, 0.2);
+  height: 20rpx;
+}

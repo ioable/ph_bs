@@ -7539,6 +7539,13 @@ const pages = [
       navigationBarTitleText: "个人资料",
       enablePullDownRefresh: false
     }
+  },
+  {
+    path: "pages/hot-news/hot-news",
+    style: {
+      navigationBarTitleText: "热门资讯",
+      enablePullDownRefresh: false
+    }
   }
 ];
 const globalStyle = {
@@ -7563,7 +7570,13 @@ const tabBar = {
       pagePath: "pages/create/create",
       iconPath: "static/tabbar/tianjia.png",
       selectedIconPath: "static/tabbar/tianjia1.png",
-      text: "添加"
+      text: "添加笔记"
+    },
+    {
+      pagePath: "pages/hot-news/hot-news",
+      iconPath: "static/tabbar/hot.png",
+      selectedIconPath: "static/tabbar/hot1.png",
+      text: "热门资讯"
     },
     {
       pagePath: "pages/my/my",
@@ -10560,4 +10573,5 @@ exports.resolveComponent = resolveComponent;
 exports.s = s$1;
 exports.sr = sr;
 exports.t = t$1;
+exports.unref = unref;
 exports.uploadCloudFiles = uploadCloudFiles;

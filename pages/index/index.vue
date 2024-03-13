@@ -1,6 +1,6 @@
 <template>
   <view class="content">
-    <uni-notice-bar show-icon scrollable text="你不学习我不学习大家都是大笨蛋~~~" />
+    <uni-notice-bar show-icon scrollable text="想去更大的平台嘛~~~ 关注一下笔试日历吆~ ~ ~" />
     <uni-swiper-dot class="uni-swiper-dot-box" :info="info" :current="current" mode="round" :dotsStyles="dotStyle"
       field="content">
       <swiper class="swiper-box" @change="change">

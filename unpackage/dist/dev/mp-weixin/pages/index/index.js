@@ -49,7 +49,7 @@ const _sfc_main = {
         a: common_vendor.p({
           ["show-icon"]: true,
           scrollable: true,
-          text: "你不学习我不学习大家都是大笨蛋~~~"
+          text: "想去更大的平台嘛~~~ 关注一下笔试日历吆~ ~ ~"
         }),
         b: common_vendor.f(info.value, (item, index, i0) => {
           return {

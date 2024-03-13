@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "热门资讯",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-segmented-control": "../../node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control",
+    "uni-icons": "../../node-modules/@dcloudio/uni-ui/lib/uni-icons/uni-icons",
+    "uni-card": "../../node-modules/@dcloudio/uni-ui/lib/uni-card/uni-card"
+  }
+}

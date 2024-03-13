@@ -4,7 +4,8 @@
     "pages/my/my",
     "pages/create/create",
     "pages/detail/detail",
-    "pages/my-detail/my-detail"
+    "pages/my-detail/my-detail",
+    "pages/hot-news/hot-news"
   ],
   "window": {
     "navigationBarTextStyle": "black",
@@ -28,7 +29,13 @@
         "pagePath": "pages/create/create",
         "iconPath": "static/tabbar/tianjia.png",
         "selectedIconPath": "static/tabbar/tianjia1.png",
-        "text": "添加"
+        "text": "添加笔记"
+      },
+      {
+        "pagePath": "pages/hot-news/hot-news",
+        "iconPath": "static/tabbar/hot.png",
+        "selectedIconPath": "static/tabbar/hot1.png",
+        "text": "热门资讯"
       },
       {
         "pagePath": "pages/my/my",
