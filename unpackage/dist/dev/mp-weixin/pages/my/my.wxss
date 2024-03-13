@@ -1,0 +1,26 @@
+
+.my.data-v-2f1ef635 {
+    margin: 20rpx;
+}
+.my-list.data-v-2f1ef635 {
+    margin-top: 40rpx;
+}
+.data-v-2f1ef635 .uni-file-picker {
+    flex: none;
+    width: 180rpx;
+}
+.custom-image-box.data-v-2f1ef635 {
+    display: flex;
+    gap: 20rpx;
+    align-items: center;
+}
+.navbar.data-v-2f1ef635 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.my-name.data-v-2f1ef635 {
+    font-weight: 600;
+    font-size: 36rpx;
+    margin-bottom: 10rpx;
+}

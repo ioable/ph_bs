@@ -1,9 +1,7 @@
 {
-  "navigationBarTitleText": "个人中心",
+  "navigationBarTitleText": "个人资料",
   "enablePullDownRefresh": false,
   "usingComponents": {
-    "uni-icons": "../../node-modules/@dcloudio/uni-ui/lib/uni-icons/uni-icons",
-    "uni-file-picker": "../../node-modules/@dcloudio/uni-ui/lib/uni-file-picker/uni-file-picker",
     "uni-list-item": "../../node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item",
     "uni-list": "../../node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list"
   }

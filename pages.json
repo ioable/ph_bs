@@ -33,7 +33,14 @@
     {
       "path": "pages/detail/detail",
       "style": {
-        "navigationBarTitleText": "",
+        "navigationBarTitleText": "笔记详情",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/my-detail/my-detail",
+      "style": {
+        "navigationBarTitleText": "个人资料",
         "enablePullDownRefresh": false
       }
     }
