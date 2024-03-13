@@ -1,6 +1,8 @@
 {
   "navigationBarTitleText": "随手记",
   "usingComponents": {
+    "uni-notice-bar": "../../node-modules/@dcloudio/uni-ui/lib/uni-notice-bar/uni-notice-bar",
+    "uni-swiper-dot": "../../node-modules/@dcloudio/uni-ui/lib/uni-swiper-dot/uni-swiper-dot",
     "uni-card": "../../node-modules/@dcloudio/uni-ui/lib/uni-card/uni-card"
   }
 }

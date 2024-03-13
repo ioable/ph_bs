@@ -7544,8 +7544,8 @@ const pages = [
 const globalStyle = {
   navigationBarTextStyle: "black",
   navigationBarTitleText: "uni-app",
-  navigationBarBackgroundColor: "#F8F8F8",
-  backgroundColor: "#F8F8F8"
+  navigationBarBackgroundColor: "#ffffff",
+  backgroundColor: "#ffffff"
 };
 const tabBar = {
   color: "#7A7E83",
