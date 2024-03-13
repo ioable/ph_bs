@@ -1,5 +1,7 @@
 {
   "navigationBarTitleText": "添加笔记",
   "enablePullDownRefresh": false,
-  "usingComponents": {}
+  "usingComponents": {
+    "sp-editor": "../../uni_modules/sp-editor/components/sp-editor/sp-editor"
+  }
 }

@@ -1,4 +1,6 @@
 {
   "navigationBarTitleText": "随手记",
-  "usingComponents": {}
+  "usingComponents": {
+    "uni-card": "../../node-modules/@dcloudio/uni-ui/lib/uni-card/uni-card"
+  }
 }

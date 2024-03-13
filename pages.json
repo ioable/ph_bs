@@ -11,6 +11,9 @@
       "path": "pages/index/index",
       "style": {
         "navigationBarTitleText": "随手记"
+      },
+      "usingComponents": {
+        "editor": "dynamicLib://editorLib/editor"
       }
     },
     {
@@ -24,6 +27,13 @@
       "path": "pages/create/create",
       "style": {
         "navigationBarTitleText": "添加笔记",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/detail/detail",
+      "style": {
+        "navigationBarTitleText": "",
         "enablePullDownRefresh": false
       }
     }
